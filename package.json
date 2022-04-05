@@ -1,0 +1,23 @@
+{
+  "name": "grid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gfjdfeiw938cj/ajs-usage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gfjdfeiw938cj/ajs-usage/issues"
+  },
+  "homepage": "https://github.com/gfjdfeiw938cj/ajs-usage#readme",
+  "dependencies": {
+    "@gfjdfeiw938cj/ajs-use": "^1.0.0"
+  }
+}
